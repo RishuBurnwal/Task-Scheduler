@@ -200,12 +200,6 @@ Check Mailpit inbox → [http://localhost:8025](http://localhost:8025)
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🙌 Credits
 
 - [Mailpit](https://github.com/axllent/mailpit) — Lightweight dev SMTP server  
