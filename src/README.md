@@ -1,4 +1,3 @@
-
 # ✅ Task Planner with Email Verification and Unsubscribe
 
 A powerful PHP-based task management system with:
