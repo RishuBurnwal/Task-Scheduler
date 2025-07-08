@@ -1,4 +1,4 @@
-# ✅ Task Planner with Email Verification and Unsubscribe
+# ✅ Task Planner with Email Verification and Unsubscribe and 📨 PHP + Mailpit + msmtp Mail Testing on Kali Linux
 
 A powerful PHP-based task management system with:
 
